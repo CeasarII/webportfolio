@@ -57,14 +57,19 @@ html {
 }	
 
 #background2 {
-	
+	min-height: 45vh;
     background-image: url("images/projectbg.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
     background-attachment: scroll;
-    background-color: #7C96AB;
+    display: absolute;
+    
+}
 
+#fbbg2 {
+    background: rgba(0, 0, 0, 0.5);
+    min-height: 45vh;
 }
 
 #background3 {
