@@ -1,0 +1,76 @@
+/*CSS RESET*/
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html {
+	scroll-behavior: smooth;
+}
+
+	/*navbar color*/
+#navbar{
+	background-color: transparent;
+	
+}
+
+#navbar-1{
+	background-color: #F5F5F5;
+}
+
+#font {
+	
+	font-family: 'Montserrat', sans-serif;
+}
+
+#font-1 {
+	
+	font-family: 'Montserrat', sans-serif;
+}
+
+#view {
+	font-family: 'DynaPuff', cursive;
+}
+#background {
+	background-image: url("images/background2.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+	background-color: #7C96AB;
+}
+#borderbottom{
+	border-bottom-width: solid;
+}
+
+#project {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#contact {
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#tools {
+	font-family: 'Montserrat', sans-serif;
+}	
+
+#background2 {
+	
+    background-image: url("images/projectbg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: scroll;
+    background-color: #7C96AB;
+
+}
+
+#background3 {
+	background-color: #7C96AB;
+}
+
+#background4 {
+	background-color: #7C96AB;
+}
